@@ -1,7 +1,7 @@
 {
     "name": "vue-common",
     "version": "1.0.0",
-    "description": "Vue.js common libraries.",
+    "description": "Miscellaneous Vue.js utilities for general use.",
     "homepage": "https://github.com/mehyaa/vue-common",
     "repository": "github:mehyaa/vue-common",
     "author": {
@@ -9,7 +9,7 @@
         "email": "mehyaa@gmail.com",
         "url": "http://www.mehyaa.com"
     },
-    "private": true,
+    "license" : "GPL-3.0-or-later",
     "scripts": {
     },
     "dependencies": {
