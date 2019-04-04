@@ -1,0 +1,19 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Node build artifacts
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# JetBrains project files
+.idea/
+
+# MacOS files
+.DS_Store
