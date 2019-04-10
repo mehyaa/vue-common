@@ -4,19 +4,20 @@
     "description": "Miscellaneous Vue.js utilities for general use.",
     "homepage": "https://github.com/mehyaa/vue-common",
     "repository": "github:mehyaa/vue-common",
+    "publishConfig": {
+        "access": "public"
+    },
     "author": {
         "name": "mehyaa",
         "email": "mehyaa@gmail.com",
-        "url": "http://www.mehyaa.com"
+        "url": "https://github.com/mehyaa"
     },
-    "license" : "GPL-3.0-or-later",
-    "scripts": {
-    },
+    "license": "GPL-3.0-or-later",
+    "scripts": {},
     "dependencies": {
         "@mehyaa/javascript-common": "mehyaa/javascript-common",
         "vue": "^2.6.10",
         "vuex": "^3.1.0"
     },
-    "devDependencies": {
-    }
+    "devDependencies": {}
 }
