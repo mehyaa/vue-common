@@ -19,5 +19,9 @@
         "vue": "^2.6.10",
         "vuex": "^3.1.0"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "engines": {
+        "node": ">=8",
+        "yarn": ">=1.15"
+    }
 }
