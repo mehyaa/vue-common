@@ -6,3 +6,8 @@ deploy:
   provider: npm
   email: "$NPMJS_EMAIL"
   api_key: "$NPMJS_API_KEY"
+
+cache:
+  yarn: true
+  directories:
+    - node_modules
