@@ -13,7 +13,9 @@
         "url": "https://github.com/mehyaa"
     },
     "license": "GPL-3.0-or-later",
-    "scripts": {},
+    "scripts": {
+        "test": "node --version"
+    },
     "dependencies": {
         "@mehyaa/javascript-common": "^1.0.0",
         "vue": "^2.6.10",
