@@ -1,4 +1,4 @@
-# Vue.js Common Library [![Build Status](https://travis-ci.com/mehyaa/vue-common.svg?branch=master)](https://travis-ci.com/mehyaa/vue-common)
+# Vue.js Common Library [![Build Status](https://travis-ci.com/mehyaa/vue-common.svg?branch=master)](https://travis-ci.com/mehyaa/vue-common) [![Version](https://img.shields.io/npm/v/@mehyaa/vue-common.svg)](https://www.npmjs.com/package/@mehyaa/vue-common) [![License](https://img.shields.io/npm/l/@mehyaa/vue-common.svg)](https://opensource.org/licenses/GPL-3.0)
 
 Miscellaneous Vue.js utilities for general use.
 
@@ -19,7 +19,3 @@ Just a few notes for anyone who wishes to use this library:
 * The modules within the library must be imported seperately.
 
 * The modules within the library are as-is and written in EcmaScript 6 so if your target environment uses lower versions of EcmaScript you need to transpile the modules.
-
-### License
-
-[GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
