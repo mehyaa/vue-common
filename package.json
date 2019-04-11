@@ -1,6 +1,6 @@
 {
     "name": "@mehyaa/vue-common",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Miscellaneous Vue.js utilities for general use.",
     "homepage": "https://github.com/mehyaa/vue-common",
     "repository": "github:mehyaa/vue-common",
